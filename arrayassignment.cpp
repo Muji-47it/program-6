@@ -1,7 +1,7 @@
-#include<iostream>
-using namespace std;
-int main()
-{
+#include <iostream>
+
+int main() {
+    // Write C++ code here
     int arr[]={1,2,3,4,5};
     int max;
     max=arr[0];
