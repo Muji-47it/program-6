@@ -1,5 +1,5 @@
 #include <iostream>
-
+using namespace std;
 int main() {
     // Write C++ code here
     int arr[]={1,2,3,4,5};
